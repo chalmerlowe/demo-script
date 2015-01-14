@@ -11,4 +11,4 @@ from IPython.lib.demo import ClearIPDemo as demo
 
 d = demo(sys.argv[1])
 
-d()
+d()    # immediately run the demo script.
